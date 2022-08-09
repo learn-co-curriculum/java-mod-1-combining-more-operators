@@ -1,4 +1,4 @@
-# String Concatenation
+# Combining (More) Operators
 
 ## Learning Goals
 
